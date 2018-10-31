@@ -1,3 +1,5 @@
+/**
+*/
 public class Tablice{
 	public void metoda1(){
 		System.out.println("Ta metoda nic nie zwraca");
