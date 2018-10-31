@@ -1,4 +1,4 @@
-# zadanie2
+# zadanie2 - lab
 
 Martyna Maciejewska
 
